@@ -4,6 +4,9 @@
 ## 📍 Objectif
 Enquête, analyse, plannification et optimisation du réseau Wi-Fi à travers une étude de site complète avec l’application NetSpot.
 
+## 📍 Site d'étude
+2ème étage de l'ENSA Tétouan
+
 ##  Étapes du projet
 1. Inspection visuelle du site
 2. Cartographie de la couverture existante (mode Survey)
